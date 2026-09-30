@@ -35,7 +35,9 @@
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>Your location is used only to fetch current local weather when you tap the weather card.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Connect to your SwasthAI wearable to read health and safety sensor data.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>

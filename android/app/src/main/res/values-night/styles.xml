@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="android:windowBackground">@drawable/splash_launch_background</item>
+        <item name="android:statusBarColor">#001B19</item>
+        <item name="android:navigationBarColor">#001B19</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
